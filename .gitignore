@@ -22,3 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 node_modules
+server/db.sqlite3
+server/core/__pycache__/*
+server/ll_api/__pycache__/*
