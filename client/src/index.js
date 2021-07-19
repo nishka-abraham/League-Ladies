@@ -4,7 +4,6 @@ import './index.css';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import { ThemeProvider } from '@material-ui/core/styles';
 import App from './Components/App/App';
-import Navbar from './Components/Navbar.js';
 import theme from './theme';
 //import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
